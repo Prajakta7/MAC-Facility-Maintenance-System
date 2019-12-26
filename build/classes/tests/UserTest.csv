@@ -1,0 +1,85 @@
+1,,same@,,,,,,,,,The User Name must be at least 6 characters
+2,,sameerrevanthsrina8397@gmail.com,,,,,,,,,The User Name cannot exceed 30 characters
+3,,prajakta17@gmail.8co8m,,,,,,,,,Invalid User Name
+4,,sameer@uta.edu,,,,,,,,,The User Name already Exists
+5,,,,,,,,,,,The User Name Field cannot be empty
+6,,prajaktagmail.com,,,,,,,,Invalid User Name
+7,,saramejh@gmail.com,,,,,,,,,
+8,,a@f.in,,,,,,,,
+9,,aaaaaaaaaaaaaaaaaaaaaaaaa@f.in,,,,,,,,
+10,,,,,,,,,,,Password Field cannot be Empty
+11,,,pRjd8,,,,,,,,Password length must be at least 6 characters
+12,,,RaI5nFk0@y6u5,,,,,,,,Password length cannot exceed 12 characters
+13,,,d dks56283,,,,,,,,password cannot contain blank space character
+14,,,ase4Afg,,,,,,,,Invalid password it must contain at least 1 digit 1 lower case 1 upper case 1 special character
+15,,,asUT#io,,,,,,,,Invalid password it must contain at least 1 digit 1 lower case 1 upper case 1 special character
+16,,,AHSJ$3KL,,,,,,,,Invalid password it must contain at least 1 digit 1 lower case 1 upper case 1 special character
+17,,,jk67!ih,,,,,,,,Invalid password it must contain at least 1 digit 1 lower case 1 upper case 1 special character
+18,,,praH7#Jl,,,,,,,,
+19,,,p9Aja$,,,,,,,,
+20,,,prE3%dfhjtfe,,,,,,,,
+21,,,,,,,,,,,confirm password field cannot be empty
+22,,,Sameer123!,Sameer123,,,,,,,passwords do not match
+23,,,Sameer123!,Sameer123!,,,,,,,
+24,,,,,,,,,,,First Name field cannot be empty
+25,,,,,,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazhj,,,,,,FirstName Field cannot exceed 50 characters
+26,,,,,,8rajakta,,,,,First character must be a letter
+27,,,,,,#rajakta,,,,,First character must be a letter
+28,,,,,,_rajakta,,,,,First character must be a letter
+29,,,,,,Prajakta7,,,,,FirstName cannot have digits or special characters
+31,,,,,,Prajakta,,,,,
+32,,,,,,Pra akta,,,,,
+33,,,,,,P,,,,,
+34,,,,,,p,,,,,
+35,,,,,,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazh,,,,,
+36,,,,,,,,,,,LastName field cannot be empty
+37,,,,,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazhj,,,,,,LastName Field cannot exceed 50 characters
+38,,,,,8rajakta,,,,,,First character must be a letter
+39,,,,,#rajakta,,,,,,First character must be a letter
+40,,,,,_rajakta,,,,,,First character must be a letter
+41,,,,,Prajakta7,,,,,,LastName cannot have digits or special characters
+42,,,,,Prajakta#,,,,,,LastName cannot have digits or special characters
+43,,,,,Jalisatgi,,,,,,
+44,,,,,Ja isatgi,,,,,,
+45,,,,,J,,,,,,
+46,,,,,j,,,,,,
+47,,,,,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazh,,,,,,
+48,,,,,,,,,,,The UTA ID number cannot be empty
+49,100163772,,,,,,,,,,The UTA ID must be 10 digits
+50,10016377221,,,,,,,,,,The UTA ID must be 10 digits
+51,100ery4vy@,,,,,,,,,,Invalid UTA ID
+52,*234er%34f,,,,,,,,,,Invalid UTA ID
+53,1001637722,,,,,,,,,,
+54,,,Sameer123!,,,,,,,,The User Name or password field cannot be empty
+55,,sameer@gmail.com,,,,,,,,,The User Name or password field cannot be empty
+56,,,,,,,,,,,The User Name or password field cannot be empty
+57,,sameer@gmail.com,Sameer12,,,,,,,,The User Name and (or) Password do not match
+58,,same@gmail.com,Sameer123!,,,,,,,,The User Name and (or) Password do not match
+59,,sa@gmail.com,Sahol,,,,,,,,The User Name and (or) Password do not match
+60,,sameer@gmail.com,Sameer123!,,,,,,,,,
+61,1001552475,,,,,,,,,,Fill out all the fields
+62,,,Texas,,,,Fill out all the fields
+63,,,Sameer123!,,,,,,,,Fill out all the fields
+64,,,,Sameer123!,,,,,,,Fill out all the fields
+65,,,,,,,,,,,Fill out all the fields
+66,1001552474,,Sameer123!,Sameer123!,,,,,,hyd,Incorrect security answer
+67,1001552474,,,,,,,,,Texas,Fill out all the fields
+68,,,Sameer123!,,,,,,,Texas,Fill out all the fields
+69,,,Sameer123!,Sameer123!,,,,,,,Fill out all the fields
+70,1001552474,,Sameer123!,,,,,,,,Fill out all the fields
+71,,,Sameer123!,,,,,,,Texas,Fill out all the fields
+72,1001552474,,Sameer123!,,,,,,,,Fill out all the fields
+73,1001552474,Sameer123!,,,,,,,,Texas,Fill out all the fields
+74,,,Sameer123!,Sameer123!,,,,,,Texas,Fill out all the fields
+75,1001552474,,,Sameer123!,,,,,,,Fill out all the fields
+76,1001552474,,Sameer123!,Sameer123!,,,,,,Texas,
+77,,,,,,,,,,,The Address Field cannot be empty
+78,,,,,,,,,Summi,,The Address Field must be at least 5 characters and should not exceed 20 characters
+79,,,,,,,,,SummitAvenueMeadowRu,,The Address Field must be at least 5 characters and should not exceed 20 characters
+80,,,,,,,,,SummitAvenueMeadowRun,,The Address Field must be at least 5 characters and should not exceed 20 characters
+81,,,,,,,,,summ,,The Address Field must be at least 5 characters and should not exceed 20 characters
+82,,,,,,,,,summiteven,,
+83,,,,,,,No value in roletype,,,,
+84,,sameer@gmail.com,,,,,,,,,
+85,,,,,,,,,,,No value in ID
+86,,sameerpvs@gmail.com,,,,,,,,,

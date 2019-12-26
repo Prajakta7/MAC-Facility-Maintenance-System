@@ -1,0 +1,7 @@
+6,2019-12-02,1001716999,2019-12-31,Multiple Hours,Please correct the following errors,,Cant assign more then 5 mar to one repairer on single day,,,
+7,2019-12-14,1001552475,2019-12-30,Multiple Hours,Please correct the following errors,Cant assign more then 10 mar to one repairer in a week,,,,
+1,123,,,,,,,,Date should be in YYYY-mm-DD format,
+2,2019-12-14,,2019-12-03,One day,Please correct the following errors,,,Please select Assigned to field from drop down,,
+3,2019-12-14,1001552493,,Multiple Hours,Please correct the following errors,,,,Date should be in YYYY-mm-DD format,
+4,2019-12-14,1001552493,2019-01-01,Multiple Hours,Please correct the following errors,,,,Date can not earlier than todays date,
+5,2019-12-14,1001552493,2019-12-20,,Please correct the following errors,,,,,Please select Estimate Repair from drop down
