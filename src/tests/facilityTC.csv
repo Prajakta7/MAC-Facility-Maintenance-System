@@ -1,0 +1,14 @@
+fac,fac,fac,5 hour,same day,,,,,,
+aa,fac,fac,30 min,same day,Your Venue Name must between 3 and 16 characters,,,,,Please correct the following errors
+fac,aa,fac,30 min,same day,,Your Facility Type must between 3 and 16 characters,,,,Please correct the following errors
+fac,fac,aa,30 min,same day,,,Your Facility Name must between 3 and 16 characters,,,Please correct the following errors
+aa,aa,aa,30 min,same day,Your Venue Name must between 3 and 16 characters,Your Facility Type must between 3 and 16 characters,Your Facility Name must between 3 and 16 characters,,,Please correct the following errors
+,facilityna,facilityna,30 min,same day,Your Venue Name must between 3 and 16 characters,,,,,Please correct the following errors
+facilityna,,facilityna,30 min,same day,,Your Facility Type must between 3 and 16 characters,,,,Please correct the following errors
+facilityna,facilityna,,30 min,same day,,,Your Facility Name must between 3 and 16 characters,,,Please correct the following errors
+facilitynamefacility,facilitynam,facilitynam,30 min,same day,Your Venue Name must between 3 and 16 characters,,,,,Please correct the following errors
+facilitynam,facilitynamefacility,facilitynam,30 min,same day,,Your Facility Type must between 3 and 16 characters,,,,Please correct the following errors
+facilitynam,facilitynam,facilitynamefacility,30 min,same day,,,Your Facility Name must between 3 and 16 characters,,,Please correct the following errors
+facilitynamefacil,facilitynamefaci,facilitynamefaci,30 min,same day,Your Venue Name must between 3 and 16 characters,,,,,Please correct the following errors
+facilitynamefaci,facilitynamefacil,facilitynamefaci,,same day,,Your Facility Type must between 3 and 16 characters,,No Value,,Please correct the following errors
+facilitynamefaci,facilitynamefaci,facilitynamefacil,30 min,,,,Your Facility Name must between 3 and 16 characters,,No Value,Please correct the following errors

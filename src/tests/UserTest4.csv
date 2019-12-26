@@ -1,0 +1,12 @@
+1,,First Name field cannot be empty
+2,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazhj,FirstName Field cannot exceed 50 characters
+3,8rajakta,First character must be a letter
+3,#rajakta,First character must be a letter
+4,_rajakta,First character must be a letter
+5,Prajakta7,FirstName cannot have digits or special characters
+6,Prajakta#,FirstName cannot have digits or special characters
+7,Prajakta,
+8,Pra akta,
+9,P,
+10,p,
+11,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazh,

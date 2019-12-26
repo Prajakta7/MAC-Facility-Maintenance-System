@@ -1,0 +1,10 @@
+1,abc,,no one present with the user name 'abc'!,,,,,,
+2,sm@gmail.com,,,,LastName,Address1,Student,First Name field cannot be empty,
+3,sm@gmail.com,,,FirstName,,Address1,Student,,LastName field cannot be empty
+4,sm@gmail.com,,,FirstName,LastName,,Student,,
+5,sm@gmail.com,,,FirstName,LastName,Address1,Faculty,,
+6,,Faculty,,,LastName,Address1,Faculty,First Name field cannot be empty,
+7,,Faculty,,FirstName,,Address1,Student,,LastName field cannot be empty
+8,,Faculty,,FirstName,LastName,,Faculty,,
+9,,Faculty,,FirstName,LastName,Address1,Student,,
+10,deepi.lingam@gmail.com,,,Deepu,L,Hyderabd,Repairer,,

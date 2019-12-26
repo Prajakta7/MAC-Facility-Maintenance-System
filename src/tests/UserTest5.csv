@@ -1,0 +1,12 @@
+1,,LastName field cannot be empty
+2,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazhj,LastName Field cannot exceed 50 characters
+3,8rajakta,First character must be a letter
+3,#rajakta,First character must be a letter
+4,_rajakta,First character must be a letter
+5,Prajakta7,LastName cannot have digits or special characters
+6,Prajakta#,LastName cannot have digits or special characters
+7,Jalisatgi,
+8,Ja isatgi,
+9,J,
+10,j,
+11,prajakytredfgbhygtrfedxcvbnjkiolwhsjduixhsjlpqmazh,

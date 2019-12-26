@@ -1,0 +1,14 @@
+1,1001222345,user@uta.edu,,Pusunuru,Sam,hyderabad,Password Field cannot be Empty,,
+2,1001222345,user@uta.edu,sssm,Pusunuru,Sam,hyderabad,Password length must be at least 6 characters,,
+3,1001222345,user@uta.edu,djdjdjdjdjdjdj,Pusunuru,Sam,hyderabad,Password length cannot exceed 12 characters,,
+4,1001222345,user@uta.edu,c v dwfjh,Pusunuru,Sam,hyderabad,password cannot contain blank space character,,
+5,1001222345,user@uta.edu,dssdsdsd,Pusunuru,Sam,hyderabad,Invalid password it must contain at least 1 digit 1 lower case 1 upper case 1 special character,,
+6,1001222345,user@uta.edu,Sameer123@,,Sam,hyderabad,,First Name field cannot be empty,
+7,1001222345,user@uta.edu,Sameer123@,asasasasasasasasasasasasasasasasasasasasasasasasasasasasasas,Sam,hyderabad,,FirstName Field cannot exceed 50 characters,
+8,1001222345,user@uta.edu,Sameer123@,12Pusunur,Sam,hyderabad,,First character must be a letter,
+9,1001222345,user@uta.edu,Sameer123@,Pusunuru1@,Sam,hyderabad,,FirstName cannot have digits or special characters,
+10,1001222345,user@uta.edu,Sameer123@,Pusunuru,,hyderabad,,,LastName field cannot be empty
+11,1001222345,user@uta.edu,Sameer123@,Pusunuru,asasasasasasasasasasasasasasasasasasasasasasasasasasasasasas,hyderabad,,,LastName Field cannot exceed 50 characters
+12,1001222345,user@uta.edu,Sameer123@,Pusunuru,12Sam,hyderabad,,,First character must be a letter
+13,1001222345,user@uta.edu,Sameer123@,Pusunuru,Sam1@,hyderabad,,,LastName cannot have digits or special characters
+16,1001222345,user@uta.edu,Sameer123@,Pusunuru,Sam,hyderabad,,,
