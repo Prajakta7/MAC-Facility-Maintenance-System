@@ -17,29 +17,29 @@ Notice that the Facility Manager may need to see additional information.
 Once the user has selected a specific facility the system assigns the first available numeric facility number (e.g., CR 2). The reservation is not considered complete until it is paid for.
 Four different kinds of users for the system:
 1.	Facility manager 
-a.	creates own profile
-b.	views numbers of facilities available by type, date, and time
-c.	views details of a specific facility
-d.	makes a facility unavailable
-e.	adds a new facility
-f.	set no-show (sets a user to no-show)
-g.	assigns a MAR to a repair staff
-h.	searches assigned repairs by date or repairer.
-i.	views repairers schedules
-j.	update his own profile
-2.	User (student, faculty, and staff)
-a.	creates own profile
-b.	reports problems
-c.	update profile
+	creates own profile,
+views numbers of facilities available by type, date, and time,
+views details of a specific facility,
+makes a facility unavailable,
+adds a new facility,
+set no-show (sets a user to no-show),
+assigns a MAR to a repair staff,
+searches assigned repairs by date or repairer,
+views repairers schedules,
+update his own profile,
+2.	User (student, faculty, and staff),
+creates own profile,
+reports problems,
+update profile
 3.	Repairer
-a.	requests reservation (to repair a facility)
-b.	view my reserved repairs
-c.	modify my reserved repairs
-d.	cancel my reserved repairs
-e.	update profile
+requests reservation (to repair a facility),
+view my reserved repairs,
+modify my reserved repairs,
+cancel my reserved repairs,
+update profile
 4.	Admin
-a.	creates own profile
-b.	edit user profile
-c.	change user roles
+creates own profile,
+edit user profile,
+change user roles.
 
 All users will have the standard functions like register, login, logout. Each system user must register and for simplicity selects their role during registration. Assume that a single user that has multiple roles, e.g. User and Facility manager would register twice with different user names - the only affect of this rule is that each user name is unique and may be used as a Primary key in the database. Each user registers with at least a user name, role, UTA id, and personal details, contact information.
