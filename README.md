@@ -13,7 +13,7 @@ Available facility report. The system shall show the availability of facilities 
 4.	Facility Name (list them in ascending numeric order)
 5.	Deposit
 
-Notice that the Facility Manager may need to see additional information.
+ Facility Manager may need to see additional information.
 Once the user has selected a specific facility the system assigns the first available numeric facility number (e.g., CR 2). The reservation is not considered complete until it is paid for.
 Four different kinds of users for the system:
 1.	Facility manager 
